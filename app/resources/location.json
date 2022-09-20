@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Shaikpet",
+        "city_id": 1,
+        "location_id": 1,
+        "city": "Hyderabad",
+        "country_name": "India"
+    },
+    {
+        "name": "Madhapur",
+        "city_id": 1,
+        "location_id": 2,
+        "city": "Hyderabad",
+        "country_name": "India"
+    },
+    {
+        "name": "Gachibowli",
+        "city_id": 1,
+        "location_id": 3,
+        "city": "Hyderabad",
+        "country_name": "India"
+    },
+    {
+        "name": "Habsiguda",
+        "city_id": 1,
+        "location_id": 4,
+        "city": "Hyderabad",
+        "country_name": "India"
+    },
+    {
+        "name": "Mehadhipatnam",
+        "city_id": 1,
+        "location_id": 5,
+        "city": "Hyderabad",
+        "country_name": "India"
+    },
+    {
+        "name": "Tholichowki",
+        "city_id": 1,
+        "location_id": 6,
+        "city": "Hyderabad",
+        "country_name": "India"
+    }
+]

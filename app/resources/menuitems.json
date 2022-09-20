@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Kadhai Paneer",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe8",
+    "image": "assets/breakfast.jpg",
+    "qty": 0,
+    "price": "200"
+  },
+  {
+    "name": "Butter Paneer",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe8",
+    "image": "assets/breakfast.jpg",
+    "qty": 0,
+    "price": "230"
+  },
+  {
+    "name": "Butter Chicken ",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe8",
+    "image": "assets/butterChicken.png",
+    "qty": 0,
+    "price": "420"
+  },
+  {
+    "name": "Margerita",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe5",
+    "image": "assets/drinks.png",
+    "qty": 0,
+    "price": "299"
+  },
+  {
+    "name": "Cheese Pizza",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe5",
+    "image": "assets/drinks.png",
+    "qty": 0,
+    "price": "199"
+  },
+  {
+    "name": "Evergreen Chicken Pizza",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe5",
+    "image": "assets/drinks.png",
+    "qty": 0,
+    "price": "265"
+  },
+  {
+    "name": "Chicken Bucket 8 Pcs",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe6",
+    "image": "assets/8pcsKFC.png",
+    "qty": 0,
+    "price": "799"
+  },
+  {
+    "name": "Chicken Bucket 4 Pcs",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe6",
+    "image": "assets/4pcsKFC.png",
+    "qty": 0,
+    "price": "399"
+  },
+  {
+    "name": "Chicken Bucket 16 Pcs",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe6",
+    "image": "assets/16pcsKFC.png",
+    "qty": 0,
+    "price": "999"
+  },
+  {
+    "name": "Veg Cheese Burger",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "62c18f0cd8264e2ebaab5fe7",
+    "image": "assets/dinner.png",
+    "qty": 0,
+    "price": "99"
+  },
+  {
+    "name": "Chicken Burger",
+    "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+    "ingridients": ["Paneer", "Tomato"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/dinner.png",
+    "qty": 0,
+    "price": "149"
+  },
+  {
+    "name": "Ghee cheese Idly",
+    "description": "Made with cheese and some quick content like Ghee.",
+    "ingridients": ["Cheese", "Ghee"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/breakfast.png",
+    "qty": 0,
+    "price": "149"
+  },
+  {
+    "name": "Tawa cheese paneer vada",
+    "description": "Made with cheese and paneer.",
+    "ingridients": ["Cheese", "Ghee"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/breakfast.png",
+    "qty": 0,
+    "price": "130"
+  },
+  {
+    "name": "semia upma",
+    "description": "Made with semia and some spicies.",
+    "ingridients": ["semia", "spicies"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/breakfast.png",
+    "qty": 0,
+    "price": "130"
+  },
+  {
+    "name": "butter masala dosa",
+    "description": "Made with butter and some masala spicy content.",
+    "ingridients": ["butter", "masala"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/breakfast.png",
+    "qty": 0,
+    "price": "130"
+  },
+  {
+    "name": "Rumali Shawarma with Salad",
+    "description": "Made with butter and some masala spicy content.",
+    "ingridients": ["butter", "masala"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/dinner.png",
+    "qty": 0,
+    "price": "165"
+  },
+  {
+    "name": "Curd Rice",
+    "description": "Made with curd and some spicy content.",
+    "ingridients": ["curd", "rice"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/dinner.png",
+    "qty": 0,
+    "price": "80"
+  },
+  {
+    "name": "Veg Pulav",
+    "description": "Made with veggies and some spicy content.",
+    "ingridients": ["veggies", "masala"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/dinner.png",
+    "qty": 0,
+    "price": "175"
+  },
+  {
+    "name": "kitkat Oreo thick Shake",
+    "description": "Made with milk and some oreo biscuits.",
+    "ingridients": ["milk", "oreo"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/drinks.png",
+    "qty": 0,
+    "price": "227"
+  },
+  {
+    "name": "Butterscotch thick Shake",
+    "description": "Made with veggies and some spicy content.",
+    "ingridients": ["creamy milk", "butterscotch syrup"],
+    "restaurantId": "5fa3c6a8a296a91c68b3627e",
+    "image": "assets/drinks.png",
+    "qty": 0,
+    "price": "203"
+  }
+]

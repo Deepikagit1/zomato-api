@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Domino's",
+    "city": "Hyderabad",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Mehadhipatnam",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 666,
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "North Indian"
+      }
+    ],
+    "image": "assets/snacks.png",
+    "mealtype_id": "4"
+  },
+  {
+    "name": "KFC",
+    "city": "Hyderabad",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Shaikpet",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/dinner.png"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 333,
+    "contact_number": "919453524651",
+    "cuisine_id": [2],
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "South Indian"
+      }
+    ],
+    "image": "assets/breakfast.png",
+    "mealtype_id": 4
+  },
+  {
+    "name": "Burger King",
+    "city": "Hyderabad",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Shaikpet",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/dinner.png"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 999,
+    "contact_number": "919453524651",
+    "cuisine_id": [2],
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "South Indian"
+      }
+    ],
+    "image": "assets/breakfast.png",
+    "mealtype_id": 1
+  },
+  {
+    "name": "Baba Ka Dhaba",
+    "city": "Hyderabad",
+    "location_id": 5,
+    "city_id": 1,
+    "locality": "Mehadhipatnam",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/dinner.png"
+    ],
+    "aggregate_rating": 3.5,
+    "rating_text": "Excellent",
+    "min_price": 599,
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "North Indian"
+      }
+    ],
+    "image": "assets/lunch.png",
+    "mealtype_id": 2
+  },
+  {
+    "name": "Shadab Go!",
+    "city": "Hyderabad",
+    "location_id": 5,
+    "city_id": 1,
+    "locality": "Madhapur",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599,
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "North Indian"
+      }
+    ],
+    "image": "assets/lunch.png",
+    "mealtype_id": 2
+  },
+  {
+    "name": "Shadab Go!",
+    "city": "Hyderabad",
+    "location_id": 5,
+    "city_id": 1,
+    "locality": "Madhapur",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599,
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "North Indian"
+      }
+    ],
+    "image": "assets/lunch.png",
+    "mealtype_id": 2
+  },
+  {
+    "name": "Ishtaa",
+    "city": "Hyderabad",
+    "location_id": 5,
+    "city_id": 1,
+    "locality": "Gachibowli",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599, 
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "South Indian"
+      }
+    ],
+    "image": "assets/breakfast.png",
+    "mealtype_id": 1
+  },
+  {
+    "name": "Hotel Suprabhat",
+    "city": "Hyderabad",
+    "location_id": 4,
+    "city_id": 1,
+    "locality": "Habsiguda",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599, 
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "South Indian"
+      }
+    ],
+    "image": "assets/breakfast.png",
+    "mealtype_id": 1
+  },
+  {
+    "name": "Hotel Suprabhat",
+    "city": "Hyderabad",
+    "location_id": 4,
+    "city_id": 1,
+    "locality": "Habsiguda",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599, 
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "South Indian"
+      }
+    ],
+    "image": "assets/dinner.png",
+    "mealtype_id": 3
+  },
+  {
+    "name": "Makers of Milkshakes",
+    "city": "Hyderabad",
+    "location_id": 6,
+    "city_id": 1,
+    "locality": "Tholichowki",
+    "thumb": [
+      "assets/breakfast.png",
+      "assets/dinner.png",
+      "assets/drinks.png",
+      "assets/lunch.png"
+    ],
+    "aggregate_rating": 4.1,
+    "rating_text": "Excellent",
+    "min_price": 599, 
+    "contact_number": "919453524651",
+    "cuisine_id": [1],
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "North Indian"
+      }
+    ],
+    "image": "assets/drinks.png",
+    "mealtype_id": 5
+  }
+]
